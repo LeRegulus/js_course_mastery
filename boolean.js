@@ -6,4 +6,4 @@ if (isAdult) {
 } else {
     console.log('You are not an adult');
 }
-console.log(!isAdult);
+console.log(!isAdult); 
