@@ -1,0 +1,21 @@
+{
+  "name": "npmpackage",
+  "version": "1.0.0",
+  "description": "Js course",
+  "keywords": [],
+  "license": "ISC",
+  "author": "LeRegulus",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "foo": "echo \"bar\""
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^19.0.0"
+  }
+}
