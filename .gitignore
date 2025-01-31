@@ -1,3 +1,5 @@
 /promises/node_modules
 /npm/node_modules
 /testing/node_modules/
+/express/node_modules/
+/react/node_modules/
